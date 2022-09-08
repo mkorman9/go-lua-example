@@ -1,0 +1,4 @@
+github.com/Shopify/go-lua v0.0.0-20220729171101-083ab0f3c60f h1:SrKWqxkpd2bFC5EM8lQR/laInV/cZ4YCJTDFKoDsG2E=
+github.com/Shopify/go-lua v0.0.0-20220729171101-083ab0f3c60f/go.mod h1:1cxA/QL5xgRGP7Crq6tXSOY4eo//me8GHGMyypHynM8=
+github.com/yuin/gopher-lua v0.0.0-20220504180219-658193537a64 h1:5mLPGnFdSsevFRFc9q3yYbBkB6tsm4aCwwQV/j1JQAQ=
+github.com/yuin/gopher-lua v0.0.0-20220504180219-658193537a64/go.mod h1:GBR0iDaNXjAgGg9zfCvksxSRnQx76gclCIb7kdAd1Pw=
